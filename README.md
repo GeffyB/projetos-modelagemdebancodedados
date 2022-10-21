@@ -6,6 +6,6 @@ Todos os códigos e subpastas contém uma descrição do enunciado do desafio pa
 
 Este repositório contém os seguintes projetos:
 
-   - Modelagem conceitual de um banco de Dados para Ordens de Serviço;
-   - Modelagem conceitual de um banco de Dados para Universidades;
-   - Modelagem conceitual de um banco de Dados para E-Commerce. 
+   - [Modelagem conceitual de um banco de Dados para Ordens de Serviço](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/OrdemdeServico);
+   - [Modelagem conceitual de um banco de Dados para Universidades](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/Universidade);
+   - [Modelagem conceitual de um banco de Dados para E-Commerce](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/E-commerce). 
