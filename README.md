@@ -8,4 +8,5 @@ Este repositório contém os seguintes projetos:
 
    - [Modelagem conceitual de um banco de Dados para Ordens de Serviço](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/OrdemdeServico);
    - [Modelagem conceitual de um banco de Dados para Universidades](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/Universidade);
-   - [Modelagem conceitual de um banco de Dados para E-Commerce](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/E-commerce). 
+   - [Modelagem conceitual de um banco de Dados para E-Commerce](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/E-commerce); 
+   - [Modelagem conceitual de um banco de Dados para Ordens de Serviço de uma Oficina Mecânica](https://github.com/GeffyB/projetos-modelagemdebancodedados/tree/master/EsquemaConceitualOSOficina).
